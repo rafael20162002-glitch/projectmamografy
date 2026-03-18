@@ -1,3 +1,6 @@
+<html>
+<head>  </ title> 1000000 </head>
+<body>
 import { useState } from "react";
 import jsPDF from "jspdf";
 
@@ -77,3 +80,5 @@ export default function Home() {
     </div>
   );
 }
+</body>
+ </html>
